@@ -50,7 +50,7 @@
 	
 	<div class="main_nav">
 		
-		<h2>Unique Restaurant</h2>
+		<h2>Pescado Sea food Restaurant</h2>
 		
 		<ul class="default_links">
 			
@@ -58,9 +58,10 @@
 			<li><a href="menu.php">ORDER</a></li>
 			<li><a href="reservation.php">BOOK TABLE</a></li>
 			<!-- <li><a href="reservation.php">RESREVATION</a></li> -->
-			<li><a href="summary.php">SUMMARY</a></li>
+			<!-- <li><a href="summary.php">SUMMARY</a></li> -->
+			<li><a href="viewreservation.php">RESERVATIONS</a></li>
 			
-			<li><a href="gallery.php">GALLERY</a></li>
+			<!-- <li><a href="gallery.php">GALLERY</a></li> -->
 			<!-- <li><a href="basket.php">ORDER</a></li> -->
 			<!-- <li><a href="../resto/login-form-20/login.php">LOGIN</a></li>
 			<li><a href="../resto/signup-form-19/register.php">SIGN UP</a></li> -->
@@ -83,7 +84,7 @@
 		
 		<div class="nav_section_div">
 			
-			<h3>Unique Restaurant</h3>
+			<h3>Pescado Sea food Restaurant</h3>
 			
 		</div>
 		
@@ -104,8 +105,6 @@
 	</div>
 	
 </div>
-
-<!-- end of header -->
 
 <div class="parallax_basket" onclick="remove_class()">
 	
@@ -145,16 +144,16 @@
 			<div class="left">
 				
 				<h3>LOCATION</h3>
-				<p>Buk New Site, New Campus</p>
-				<p>Kano State</p>
+				<p>Fathima Nagar, Mahatma Nagar, Nellikunnu, , Kerala 680006, India Thrissur</p>
+				<!-- <p>Kano State</p> -->
 				
 			</div>
 			
 			<div class="left">
 				
 				<h3>CONTACT</h3>
-				<p>08054645432, 07086898709</p>
-				<p>Website@gmail.com</p>
+				<p>9072968843</p>
+				<p>pescado@gmail.com</p>
 				
 			</div>
 			
@@ -178,7 +177,7 @@
 	
 	<div class="on_footer_parallax">
 		
-		<p>&copy; <?php echo strftime("%Y", time()); ?> <span>MyRestaurant</span>. All Rights Reserved</p>
+		<p>&copy; <?php echo strftime("%Y", time()); ?> <span>Pescado Seafood Restaurant</span>. All Rights Reserved</p>
 		
 	</div>
 	
