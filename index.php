@@ -112,16 +112,17 @@
 			<div class="left">
 				
 				<h3>LOCATION</h3>
-				<p>Buk New Site, New Campus</p>
-				<p>Kano State</p>
+				<p>Fathima Nagar, Mahatma Nagar, Nellikunnu, , Kerala 680006, India
+Thrissur</p>
+				<!-- <p>Kano State</p> -->
 				
 			</div>
 			
 			<div class="left">
 				
 				<h3>CONTACT</h3>
-				<p>08054645432, 07086898709</p>
-				<p>Website@gmail.com</p>
+				<p>9072968843</p>
+				<p>pescado@gmail.com</p>
 				
 			</div>
 			
@@ -145,7 +146,7 @@
 	
 	<div class="on_footer_parallax">
 		
-		<p>&copy; <?php echo strftime("%Y", time()); ?> <span>MyRestaurant</span>. All Rights Reserved</p>
+		<p>&copy; <?php echo strftime("%Y", time()); ?> <span>Pescado Seafood Restaurant</span>. All Rights Reserved</p>
 		
 	</div>
 	
